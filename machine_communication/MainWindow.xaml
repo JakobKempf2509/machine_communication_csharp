@@ -1,0 +1,33 @@
+﻿<Window x:Class="machine_communication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:machine_communication"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Grid Height="400" Width="300" Margin="-400,15,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300"/>
+                <ColumnDefinition Width="200"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Label x:Name="my_lb_1" Content="Bitte geben Sie die gewünschte IP-Adresse ein:" Height="25" Width="260" Grid.Column="0" Grid.Row="0"/>
+            <TextBox x:Name="my_eingabe_ip" Width="200" Height="20" Grid.Column="0" Grid.Row="1"/>
+            <Button x:Name="my_bt_stream" Content="Start the communication" Width="150" Height="25" Grid.Column="0" Grid.Row="2" RenderTransformOrigin="0.5,0.504" Click="my_bt_stream_Click"/>
+        </Grid>
+        <Grid Height="400" Width="350" Margin="350,-400,0,0">
+            <TextBox x:Name="my_tb_test" Width="350" Height="300" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"/> 
+        </Grid>
+    </StackPanel>
+</Window>

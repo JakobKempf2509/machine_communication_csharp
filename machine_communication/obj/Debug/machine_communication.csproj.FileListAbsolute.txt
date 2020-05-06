@@ -1,0 +1,15 @@
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\bin\Debug\machine_communication.exe.config
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\bin\Debug\machine_communication.exe
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\bin\Debug\machine_communication.pdb
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\machine_communication.csprojAssemblyReference.cache
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\MainWindow.g.cs
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\App.g.cs
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\machine_communication_MarkupCompile.cache
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\machine_communication_MarkupCompile.lref
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\MainWindow.baml
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\machine_communication.g.resources
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\machine_communication.Properties.Resources.resources
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\machine_communication.csproj.GenerateResource.cache
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\machine_communication.csproj.CoreCompileInputs.cache
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\machine_communication.exe
+D:\Projektarbeit T_2000\Programmierung\git\machine_communication_csharp\machine_communication\obj\Debug\machine_communication.pdb
